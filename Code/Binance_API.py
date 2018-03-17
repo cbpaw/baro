@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 26 11:37:34 2018
 
-@author: C44748
+@author:=
 """
 
 #### Binance API & data retrieval ####
