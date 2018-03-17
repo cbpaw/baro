@@ -9,9 +9,8 @@ Created on Mon Feb 26 11:37:34 2018
 
 """
 
-API Key: dPrDlKmoF74SlGEsM3dDle8CQfpgF5cDIl1nR9SJabOodWHmdHCAC3kJTarM82N9
-Secret: CtUE5ZzyjejBWlL8gikdqAE118uDG51R4smzj5bxqjEEcka2ytebLCJJYFjN0HdA
-     
+API Key:
+Secret: 
 """
 ############### CODE to transform date to milliseconds
 # requires dateparser package
