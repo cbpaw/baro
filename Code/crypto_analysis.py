@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 ### retrieving data
-quandl.ApiConfig.api_key = 'rZENMjiDRz-bnbbPXSdy'
+quandl.ApiConfig.api_key = ''
 
 LTC_EUR = quandl.get("GDAX/LTC_EUR", authtoken="rZENMjiDRz-bnbbPXSdy")
 ETH_EUR = quandl.get("GDAX/ETH_EUR", authtoken="rZENMjiDRz-bnbbPXSdy")
