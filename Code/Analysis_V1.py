@@ -33,7 +33,7 @@ amzn
 import quandl
 import datetime
  
-quandl.ApiConfig.api_key = 'Ydsoxi1_7MoTZ9ySFCYo'
+quandl.ApiConfig.api_key = 
  
 def quandl_stocks(symbol, start_date=(2000, 1, 1), end_date=None):
     """
