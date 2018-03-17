@@ -11,7 +11,7 @@ import datetime
 import pandas as pd
 import matplotlib.pyplot as plt 
  
-quandl.ApiConfig.api_key = 'rZENMjiDRz-bnbbPXSdy'
+quandl.ApiConfig.api_key = 
  
 def quandl_stocks(symbol, start_date=(2000, 1, 1), end_date=None):
     
