@@ -28,7 +28,7 @@ amzn
 
 
 
-### API KEY Quandl: Ydsoxi1_7MoTZ9ySFCYo
+### API KEY Quandl: 
 
 import quandl
 import datetime
