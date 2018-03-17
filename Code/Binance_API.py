@@ -285,13 +285,7 @@ SDs = pd.concat([coins_std, coins_normalized_std, coins_return_std, coins_change
 SDs.columns = ['coins_std', 'coins_normalized_std', 'coins_return_std', 'coins_change_std']
 SDs
 
-output = [np.float(62)]
-for x in range(0, 30):
-    result = output[x] * 1.18
-    output.append(float(result))
-    print(round(output[x], 3))
 
-plt.plot(output)
 
 
 
