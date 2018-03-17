@@ -1,0 +1,5 @@
+import geld
+
+ATM = geld.Poen()
+
+print(ATM.cash(10000))
